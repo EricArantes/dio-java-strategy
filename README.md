@@ -1,3 +1,7 @@
+## Strategy em Java
+
+Projeto demonstrando a utilização do pattern Strategy em java, exemplificando a utilidade dessa design pattern.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
